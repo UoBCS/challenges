@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package challenges;
+package challenge2;
 
 /**
  *
  * @author ossama
  */
-public class Challenges {
+public class Test {
 
     /**
      * @param args the command line arguments
